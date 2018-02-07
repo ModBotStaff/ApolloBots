@@ -24,7 +24,7 @@
 		"admins": []
 	},
 	"webserver": {
-		"port": 8080,
+		"port": 80,
 		"secret": "",
 		"location": "",
 		"store": {
